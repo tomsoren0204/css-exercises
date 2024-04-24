@@ -1,4 +1,9 @@
-.one {
+.odd {
     background-color: rgb(228, 138, 138);
     font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
 }
